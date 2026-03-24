@@ -37,10 +37,6 @@ It works through the preparation steps and keeps track of progress:
 
 ![Workflow progress](docs/images/workflow-progress.png)
 
-At the end, it gives you a clean summary of refunds, carryovers, and filled forms:
-
-![Results summary](docs/images/results-summary.png)
-
 ## What You Get
 
 - Filled PDF forms ready for you to review and file
