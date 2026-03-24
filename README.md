@@ -27,15 +27,15 @@ This Skill helps Claude prepare your tax return: read the source docs, compute t
 
 Start with a simple prompt:
 
-![Starting prompt in Claude](docs/images/start-prompt.png)
+![Starting prompt in Claude](docs/images/initial-prompt.png)
 
 Claude asks the follow-up questions needed to finish the return:
 
-![Filing questions UI](docs/images/filing-questions.png)
+![Filing questions UI](docs/images/ask-questions.png)
 
 It works through the preparation steps and keeps track of progress:
 
-![Workflow progress](docs/images/workflow-progress.png)
+![Workflow progress](docs/images/todo.png)
 
 ## What You Get
 
